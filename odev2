@@ -1,0 +1,41 @@
+<div style="background-color:rgb(175, 95, 95);color:white;padding:20px;">
+<h2>EZGİ DİLAN ÖZBUDAK</h2> <!--Baslık olusturulması-->
+
+<h3><span style="border: 1px solid rgb(248, 244, 244)">Hakkımda</span></h3> <!--Hakkımda kısmı için başlık oluşturuldu-->
+<p> Merhabalar. Ben Ezgi Dilan. Biyomedikal mühendisliği mezunuyum. Öğrenimim sırasında tanıştığım yazılımla uğraşmak oldukça hoşuma gidiyor.
+    Bu nedenle boş zamanlarımı bu alanda kendimi geliştirerek harcıyorum.
+</p> <!--Hakkımda kısmı yazıldı-->
+<p>Sevdiğim bazı şeyler ; doğada vakit geçirmek, kitap okumak ,komedi filmleri , insanın ruhuna iyi gelecek müzikler dinlemek.</p>
+
+
+<h3> <span style="border: 1px solid rgb(248, 244, 244)">Gezmeyi Sevdiğim Yer</span></h3>
+<p>Genel olarak İstanbul ve Kocaeli'de bulunan tarihi mekanları ve kamp yapılabilecek,doğanın içinde yerleri gezmekten keyif alıyorum. </p>
+
+<img src="https://ozlemkesifte.com/wp-content/uploads/2019/05/hacilli-selalesi-2-1024x683.jpg" width="400" height="300" alt="Hacıllı Şelalesi"/>
+<p>Gitmeyi en sevdiğim yer Hacıllı Şelalesi'dir</p>
+
+<h3><span style="border: 1px solid rgb(248, 244, 244)">İlgi Alanlarım</span></h3>
+
+<ol>
+    <li>Film</li>
+       <ul style="list-style-type:square">
+           <li> <a href="https://www.imdb.com/title/tt1160419/?ref_=fn_al_tt_1" 
+            target="_blank"> Dune </a></li>
+           <li>
+               <a href="https://www.imdb.com/title/tt0120737/?ref_=fn_al_tt_2"
+            target="_blank">Yüzüklerin Efendisi</a></li>
+           <li><a href="https://www.imdb.com/title/tt3183660/?ref_=tt_sims_tt_t_2"
+            target="_blank">Fantastik Canavarlar Nelerdir, Nerede Bulunurlar?</a></li>
+       </ul>
+    <li>Kitap</li>
+      <ul style="list-style-type:square">
+           <li><a href="https://www.goodreads.com/book/show/16051168-nar-a-ac?from_search=true&from_srp=true&qid=I3uc2C351k&rank=1"
+            target="_blank">Nar Ağacı</a></li>
+           <li><a href="https://www.goodreads.com/book/show/6863831-u-urtma-avc-s?ac=1&from_search=true&qid=8XF4c0DoA6&rank=1"
+            target="_blank">Uçurtma Avcısı</a></li>
+           <li><a href="https://www.goodreads.com/book/show/1220467.Satran_?ac=1&from_search=true&qid=AO1LkYR6fv&rank=2"
+            target="_blank">Satranç</a></li>
+      </ul>
+    
+</ol>
+</div>
